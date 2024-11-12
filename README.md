@@ -16,18 +16,18 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
   * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
     
 ## Benefits
-* [Edit Your Products Faster](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#edit-your-products-faster)
-* [Edit a Single or Multiple Attributes](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#edit-a-single-or-multiple-attributes)
-* [Update Qty and Qty per Source Promptly](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#update-qty-and-qty-per-source-promptly)
-* [Change Prices and Special Prices via Mass Actions](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#change-prices-and-special-prices-via-mass-actions)
-* [Change Attribute Set in a Few Clicks](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#change-attribute-set-in-a-few-clicks)
-* [Add or Remove Product Categories in the Grid](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#add-or-remove-product-categories-in-the-grid)
-* [Enhance the Stock Status Management](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#enhance-the-stock-status-management)
-* [Delete and Copy Product Images](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#delete-and-copy-product-images)
-* [Take Care of the Related, Up-Sell and Cross-Sell Products](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#take-care-of-the-related-up-sell-and-cross-sell-products)
-* [Boost Your Custom Options Management](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#boost-your-custom-options-management)
-* [Monitor Your Changes as You Go](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#monitor-your-changes-as-you-go)
-* [Use the Optimized Product Grid to the Fullest](https://github.com/magefan/magento-2-extended-product-grid?tab=readme-ov-file#use-the-optimized-product-grid-to-the-fullest)
+* [Edit Your Products Faster](https://github.com/magefan/magento-2-extended-product-grid#edit-your-products-faster)
+* [Edit a Single or Multiple Attributes](https://github.com/magefan/magento-2-extended-product-grid#edit-a-single-or-multiple-attributes)
+* [Update Qty and Qty per Source Promptly](https://github.com/magefan/magento-2-extended-product-grid#update-qty-and-qty-per-source-promptly)
+* [Change Prices and Special Prices via Mass Actions](https://github.com/magefan/magento-2-extended-product-grid#change-prices-and-special-prices-via-mass-actions)
+* [Change Attribute Set in a Few Clicks](https://github.com/magefan/magento-2-extended-product-grid#change-attribute-set-in-a-few-clicks)
+* [Add or Remove Product Categories in the Grid](https://github.com/magefan/magento-2-extended-product-grid#add-or-remove-product-categories-in-the-grid)
+* [Enhance the Stock Status Management](https://github.com/magefan/magento-2-extended-product-grid#enhance-the-stock-status-management)
+* [Delete and Copy Product Images](https://github.com/magefan/magento-2-extended-product-grid#delete-and-copy-product-images)
+* [Take Care of the Related, Up-Sell and Cross-Sell Products](https://github.com/magefan/magento-2-extended-product-grid#take-care-of-the-related-up-sell-and-cross-sell-products)
+* [Boost Your Custom Options Management](https://github.com/magefan/magento-2-extended-product-grid#boost-your-custom-options-management)
+* [Monitor Your Changes as You Go](https://github.com/magefan/magento-2-extended-product-grid#monitor-your-changes-as-you-go)
+* [Use the Optimized Product Grid to the Fullest](https://github.com/magefan/magento-2-extended-product-grid#use-the-optimized-product-grid-to-the-fullest)
 
 ## Features
 ### Edit Your Products Faster
