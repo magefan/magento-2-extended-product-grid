@@ -160,8 +160,8 @@ On top of that, you can save the grid view and get back to it later. This way, y
 ## Documentation
 
 **General**
-* [[How to install Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/installation)
-* [[How to update Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/updating)
+* [Install Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor/installation)
+* [Update Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor/updating)
 
 ## Demo
 
