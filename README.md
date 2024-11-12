@@ -6,7 +6,9 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
-[Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor) is the perfect solution for those who are tired of manual product attribute editing. It allows you to edit products directly from the product grid and do this either on individual products or massively. These and many other options will help you reduce time spent on product editing to seconds. Literally.
+[Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)  is a perfect solution for those who are tired of manual product attribute editing. It allows you to edit products individually or in bulk directly from the product grid in a few clicks. 
+
+Change the quantity and stock status, set special prices, copy up- and cross-sell products and more with the help of this handy tool. Give it a try and boost your product management like never before!
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
@@ -20,68 +22,131 @@
 * Flexible Products Attributes Editing
 
 ## Features
-### Faster Product Editing Process
+### Edit Your Products Faster
 
-Usually, you have to go from one page to another to change the product price,quantity or SKU, spending a lot of time. With Magento 2 Product Grid Inline Editor you can do this in a few seconds regardless if it is 10, 100, or 1000 products.
+Usually, you have to open every product page to change the price, quantity or SKU. Needless to say how much time it takes.
+
+The Magento Extended Product Gridhas this aspect covered. Edit 10, 100 or even 1000 products in a matter of a few clicks. And right from the grid, too!
+
+Save your time without losing quality.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid_1.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-2-extended-product-grid.webp">
 </p>
 
-### 7 Attribute Types Support
-You don’t have to limit yourself to some certain kinds of attribute input types with Product Grid Inline Editor for Magento 2. You can update Text Field&Area, Date, Price, Yes/No, Multiselect and Dropdown attribute input types directly from the admin.
+### Edit a Single or Multiple Attributes
+One attribute or ten - it doesn’t matter. This extension can handle them all.
+
+No need to waste your precious time on repetitive actions. Just tick the products, edit one or a few attributes and save your changes. That’s about it! 
+
+You can then concentrate on some other important Magento 2 store management tasks.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-product-attribute-input-types.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/update-product-attributes-in-bulk-magento.webp">
 </p>
 
-### Single Product Attribute Updating
-As said before, product editing process is much easier with the Magento 2 Product Grid Inline editor. To edit one product information all you need to do it to click on the attribute you want to edit, change the value and save. Just as simple as that.
+### Update Qty and Qty per Source Promptly
+Inventory management calls for a swift reaction. You have to regularly update the product quantity and keep your data up-to-date. Especially if you use MSI.
+
+The Magento Extended Product Grid allows you to edit the Qty and Qty per Source via mass actions. This makes restocking nothing more than a breeze rather than a usual nightmare.
+
+Just press a few buttons and that’s about it!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid_1.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-edit-product-quanity-and-quantity-per-source.webp">
 </p>
 
-### Multiple Attribute Editing in Seconds
-Except for editing one product you can edit product attributes massively. That makes product updating process even faster. You can then concentrate on some other important Magento 2 store management tasks.
+### Change Prices and Special Prices via Mass Actions
+Do you stay up late or wake up early in the morning to get your products ready for the upcoming sale? No need to do any of that if you have the Magento 2 Extended Product Grid.
+
+You can change both prices and special prices in bulk right from the grid. Just select the needed products and update the price for all of them at once.
+
+A few minutes of your time and the new catalog prices are all ready.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-multiple-product-editing.webp">
+  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-2-update-product-prices-in-bulk.webp">
 </p>
 
-### Quick Quantity Update
-Of all other product attributes Quantity is one that needs to be changed regularly since products get out of stock and back very often. Product Grid Inline Editor allows you to edit this attribute from the grid as well. And what about editing the quantity of multiple products? No problem, options are not limited.
+### Change Attribute Set in a Few Clicks
+By default, you can specify the attribute set when creating a product. Yet, there is no option to change it later. It’s quite a dealbreaker, isn’t it?
+
+The Magento Extended Product Grid Extension has an effective solution. Not only does it allow you to change the attribute set, but it also lets you do it in bulk.
+
+What is impossible by default is improved and optimized in this extension. Just a few quick steps will save you tons of time.
+
+
+### Add or Remove Product Categories in the Grid
+Distributing products into categories is the first step to improved website navigation. Yet, categories and products won’t be the same forever. So, you need to know how to handle the change.
+
+This extended product grid allows you to assign or remove the categories right from the grid. You don’t have to go and edit each product. Just do it in bulk and ensure more effective results.
+
+With this solution, you can face changes boldly since you can adapt to them easily. A few clicks is all it takes!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid-quantity-editing.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/edit-product-category-from-grid-magento.webp">
 </p>
 
-### Product Grid Filters
-You can easily edit product attributes with the Magento 2 Product Grid Inline Editor. That is what you already know. But it is now the only feature. This module also allows you to filter product grids, meaning add and remove product attributes for better product management.
+### Enhance the Stock Status Management
+Do you go to each product and change its stock status when it runs out or comes back in stock? Well, feel free to leave it in the past!
+
+The Magento Extended Product Grid allows you to change the stock status right in the grid using mass actions. You can just filter your products and mark all of them as “In Stock” or “Out-of-Stock” at once.
+
+This is specifically relevant for those who have to restock frequently and want to do that as promptly as possible.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-attribute-filter.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/change-stock-status-in-bulk-magento.webp">
 </p>
 
-### Drag and Drop Columns
-Easily and conveniently drag and dropping product grid columns is also one of the features of the Product Grid Editor for Magento 2.  You can drag the column you want to update or update most often to optimize the process of product information editing even more conveniently.
+### Delete and Copy Product Images
+Just like any attribute editing, product images take quite a bit of your time. They require repetitive actions which you’d rather not do manually.
+
+The Magento 2 Product Grid allows you to remove or copy product images via mass actions. Just select products and specify what IDs to copy the images from. Removing images is just as easy.
+
+Imagine how fast you can update your products!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-product-grid-colums-drag-and-dropping_1.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/copy-and-remove-images-in-product-grid-magento.webp">
 </p>
 
-### Mass Attribute Set Change
-Magento 2 Product Grid Inline Editor despite of all other features allows you to mass change attribute sets.
+### Take Care of the Related, Up-Sell and Cross-Sell Products
+You know how effective related, cross-sell and up-sell products are. They prompt customers to purchase more products in addition to those they have chosen.
+
+However, these offerings are usually the same for a great deal of items. Thus, adding them one by one is a tiresome task.
+
+With the Magento Extended Product Grid, you can remove and copy related, cross-sell and up-sell products in the grid. Mass actions will save you lots of time and optimize your product management.  
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid-options.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/add-related-products-cross-sells-up-sells-to-products-in-grid-magento.webp">
 </p>
 
-### Grid Templates Saving
-Once you rearrange product attributes in the grid and select the product attributes you like to be displayed in grid you might as well like to save grid templates to use in the future. And that is one more feature of Magento 2 Product Grid Inline Editor.
+### Boost Your Custom Options Management
+Similarly, custom options are often the same for a certain category of products. So, you will have to edit dozens of products and repeat the same actions.
+
+It’s your cue to forget about that and use this handy Magento Extended Product Grid. It allows you to copy and remove custom options and do it in a few minutes tops!
+
+This tool can be your saviour when there are hundreds of products waiting!  
+
+
+### Monitor Your Changes as You Go
+When you edit product attributes, you certainly want to know how your changes look on the storefront. Going and searching for each separate product is not the best option, though.
+
+This extension has a separate Preview button for each catalog item in the product grid. Thus, you can just press it and see your changes for a specific product.
+
+It’s safe to say you are going to optimize your product management immensely! 
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-product-grid-template.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/preview-products-in-magento-from-product-grid.webp">
+</p>
+
+### Use the Optimized Product Grid to the Fullest
+Magento Extended Product Grid can help you make product editing a breeze. But it’s not the only thing it’s capable of.
+
+The extension offers better grid filters to save time when looking for products. The drag&drop functionality allows you to move the grid columns to keep the key info in front of your eyes.
+
+On top of that, you can save the grid view and get back to it later. This way, you can save the most frequent search combinations and just switch between them.  
+
+<p align="center">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-product-grid.webp">
 </p>
 
 ## Documentation
@@ -89,7 +154,6 @@ Once you rearrange product attributes in the grid and select the product attribu
 **General**
 * [How to install Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/installation)
 * [How to update Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/updating)
-* [How to uninstall Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/uninstalling)
 
 ## Demo
 
