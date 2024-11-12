@@ -6,7 +6,7 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
-[Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)  is a perfect solution for those who are tired of manual product attribute editing. It allows you to edit products individually or in bulk directly from the product grid in a few clicks. 
+[Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)  is a perfect solution for those who are tired of manual product attribute editing. It allows you to edit products individually or in bulk directly from the product grid in a few clicks. 
 
 Change the quantity and stock status, set special prices, copy up- and cross-sell products and more with the help of this handy tool. Give it a try and boost your product management like never before!
 
