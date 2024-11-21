@@ -1,7 +1,6 @@
-<!--
-  Meta title: Magento 2 Extended Product Grid - Magefan
-  Meta Description: Edit products in a few clicks using a handy Magento Extended Product Grid tool. Stop wasting hours editing product information. You can do it in a few clicks.
-  -->
+
+<meta name="title" content="Magento 2 Extended Product Grid - Magefan"/>
+<meta name="description" content="Edit products in a few clicks using a handy Magento Extended Product Grid tool. Stop wasting hours editing product information. You can do it in a few clicks."/>
 
 # [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) by Magefan
 
