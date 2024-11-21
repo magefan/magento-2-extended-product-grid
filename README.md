@@ -10,9 +10,10 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
 ## Requirements
   * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+
+<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
     
 ## Benefits
 * [Edit Your Products Faster](https://github.com/magefan/magento-2-extended-product-grid#edit-your-products-faster)
