@@ -1,7 +1,3 @@
-
-<meta name="title" content="Magento 2 Extended Product Grid - Magefan"/>
-<meta name="description" content="Edit products in a few clicks using a handy Magento Extended Product Grid tool. Stop wasting hours editing product information. You can do it in a few clicks."/>
-
 # [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
@@ -12,8 +8,13 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
 
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
-<a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+<a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1843#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
 
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-product-grid-inline-editor/documentation)
+  * [Change Log](https://magefan.com/magento-2-product-grid-inline-editor/change-log)
+  * [FAQs](https://magefan.com/magento-2-product-grid-inline-editor#pattr-faq)
+    
 ## Requirements
   * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
@@ -161,12 +162,6 @@ On top of that, you can save the grid view and get back to it later. This way, y
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-product-grid.webp">
 </p>
 
-## Documentation
-
-**General**
-* [Install Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor/installation)
-* [Update Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor/updating)
-
 ## Demo
 
 Try out our open demo and if you like our extension **please give us some star on Github ★**
@@ -181,7 +176,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://opt.demo.magefan.top/admin/admin/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magneto 2 Extended Product Grid Extension Admin Panel Demo"
             height="220"
           >
@@ -191,7 +186,7 @@ Try out our open demo and if you like our extension **please give us some star o
     <tr>
       <td align="center" valign="middle">
         <a href="https://opt.demo.magefan.top/admin/admin/">
-          view
+          Check Now
         </a>
       </td>
     </tr>
