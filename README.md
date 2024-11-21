@@ -1,6 +1,6 @@
 # [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) by Magefan
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine-magefan.png"></a>
+<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
