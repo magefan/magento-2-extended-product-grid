@@ -1,7 +1,5 @@
 # [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) by Magefan
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
 [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)  is a perfect solution for those who are tired of manual product attribute editing. It allows you to edit products individually or in bulk directly from the product grid in a few clicks. 
@@ -12,6 +10,7 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
+<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
 ## Requirements
   * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
     
