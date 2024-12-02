@@ -6,6 +6,8 @@
 
 Change the quantity and stock status, set special prices, copy up- and cross-sell products and more with the help of this handy tool. Give it a try and boost your product management like never before!
 
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1843#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
@@ -17,9 +19,6 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
 
 ## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
-## Requirements
-  * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
-    
 ## Benefits
 * [Edit Your Products Faster](https://github.com/magefan/magento-2-extended-product-grid#edit-your-products-faster)
 * [Edit a Single or Multiple Attributes](https://github.com/magefan/magento-2-extended-product-grid#edit-a-single-or-multiple-attributes)
