@@ -15,8 +15,8 @@ Change the quantity and stock status, set special prices, copy up- and cross-sel
   * [Change Log](https://magefan.com/magento-2-product-grid-inline-editor/change-log)
   * [FAQs](https://magefan.com/magento-2-product-grid-inline-editor#pattr-faq)
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
-    
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+
 ## Requirements
   * [Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
     
