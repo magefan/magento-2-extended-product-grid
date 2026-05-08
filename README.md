@@ -2,38 +2,50 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
-[Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)  is a perfect solution for those who are tired of manual product attribute editing. It allows you to edit products individually or in bulk directly from the product grid in a few clicks. 
+[Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) is an extension that simplifies product management by allowing you to edit product data directly from the Magento product grid. 
 
-Change the quantity and stock status, set special prices, copy up- and cross-sell products and more with the help of this handy tool. Give it a try and boost your product management like never before!
+Instead of opening products one by one, you can quickly update product attributes, prices, stock, categories, visibility, and any other information inline.
+
+Magento Product Grid Editor by Magefan helps merchants save time, improve workflow efficiency, and manage product catalogs faster without complex imports or manual editing processes.
+
+> **Note:** Best for large Magento stores that need fast, bulk product editing directly from the product grid.
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-product-grid-inline-editor/documentation)
-  * [Change Log](https://magefan.com/magento-2-product-grid-inline-editor/change-log)
-  * [FAQs](https://magefan.com/magento-2-product-grid-inline-editor#pattr-faq)
+---
+TL;DR:
+Magefan Product Grid Editor for Magento allows store admins to edit product attributes, prices, quantities, categories and any other data directly from the Magento product grid without opening each product page separately.
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+## Do You Need to Use Magento 2 Extended Product Grid?
+Managing products in Magento 2 is a demanding task, and it can become inefficient as your catalog grows. The default admin product grid is not designed for performing quick edits or bulk updates.
 
-## Benefits
-* [Edit Your Products Faster](https://github.com/magefan/magento-2-extended-product-grid#edit-your-products-faster)
-* [Edit a Single or Multiple Attributes](https://github.com/magefan/magento-2-extended-product-grid#edit-a-single-or-multiple-attributes)
-* [Update Qty and Qty per Source Promptly](https://github.com/magefan/magento-2-extended-product-grid#update-qty-and-qty-per-source-promptly)
-* [Change Prices and Special Prices via Mass Actions](https://github.com/magefan/magento-2-extended-product-grid#change-prices-and-special-prices-via-mass-actions)
-* [Change Attribute Set in a Few Clicks](https://github.com/magefan/magento-2-extended-product-grid#change-attribute-set-in-a-few-clicks)
-* [Add or Remove Product Categories in the Grid](https://github.com/magefan/magento-2-extended-product-grid#add-or-remove-product-categories-in-the-grid)
-* [Enhance the Stock Status Management](https://github.com/magefan/magento-2-extended-product-grid#enhance-the-stock-status-management)
-* [Delete and Copy Product Images](https://github.com/magefan/magento-2-extended-product-grid#delete-and-copy-product-images)
-* [Take Care of the Related, Up-Sell and Cross-Sell Products](https://github.com/magefan/magento-2-extended-product-grid#take-care-of-the-related-up-sell-and-cross-sell-products)
-* [Boost Your Custom Options Management](https://github.com/magefan/magento-2-extended-product-grid#boost-your-custom-options-management)
-* [Monitor Your Changes as You Go](https://github.com/magefan/magento-2-extended-product-grid#monitor-your-changes-as-you-go)
-* [Use the Optimized Product Grid to the Fullest](https://github.com/magefan/magento-2-extended-product-grid#use-the-optimized-product-grid-to-the-fullest)
+Because of this, many merchants struggle with repetitive catalog management tasks:
 
-## Features
+* Spending hours updating product prices or quantities, one product at a time
+* Opening and saving dozens of product pages just to update a single attribute
+* Slow product management when running promotions or price updates
+
+This is where Magefan Extended Product Grid helps.
+
+Instead of editing products one by one, store admins can edit product data directly in the grid, perform bulk updates, manage categories, update inventory, and apply changes across multiple products without opening each product page.
+
+For stores with large catalogs or frequent product updates, a dedicated product grid extension significantly reduces manual work, speeds up catalog management, and improves overall admin productivity.
+
+## Features of the Magento 2 Extended Product Grid
+* Edit product attributes directly from the admin grid
+* Bulk update product attributes for multiple products at once
+* Edit product quantity and quantity per source (MSI) from the grid
+* Change product stock status individually or in bulk
+* Add or remove products from categories directly in the grid
+* Manage related products, cross-sells, and up-sells from the grid
+* Copy or remove product images in bulk
+* Preview product pages directly from the grid
+
+## Benefits of the Magento 2 Extended Product Grid
 ### Edit Your Products Faster
 
 Usually, you have to open every product page to change the price, quantity or SKU. Needless to say how much time it takes.
@@ -161,6 +173,23 @@ On top of that, you can save the grid view and get back to it later. This way, y
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/magento-product-grid.webp">
 </p>
 
+## Frequently Asked Questions about Magento 2 Extended Product Grid
+### Can I edit multiple products at once in Magento 2?
+By default, Magento has limited bulk editing options for products. In most cases, you will need to open and edit each product page individually.
+
+However, the Magento 2 Extended Product Grid allows you to select multiple products and update their attributes in bulk, including prices, quantities, categories, stock status, and more. 
+
+### How do we edit multiple items directly in the product grid?
+To edit multiple products at once, navigate to Catalog > Products, select the items you’d like to edit, and choose the corresponding action from the Actions dropdown list.
+
+For the inline editing, click on one of the products you want to edit to call the editing menu, tick all products that have to be updated, change the attribute value in a corresponding field, and press Apply.
+
+### Is there a way to disable some of the mass actions for specific user groups?
+Yes. All mass actions that the Magento 2 Extended Product Grid adds are available in the access control list (ACL). Thus, you can restrict specific user groups to the corresponding mass actions.
+
+### Does Magento 2 Extended Product Grid support large catalogs?
+Yes. The extension is designed specifically for stores with large catalogs, where bulk editing, filtering, and mass actions reduce the time needed to manage product data.
+
 ## Demo
 
 Try out our open demo and if you like our extension **please give us some star on Github ★**
@@ -208,7 +237,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
 ### Magento 2 SEO Extensions
 
-* [Magento SEO](https://magefan.com/magento-2-seo-extension)
+* [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
 * [Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets)
 * [Magento 2 HTML Sitemap](https://magefan.com/magento-2-html-sitemap-extension)
 * [Magento 2 XML Sitemap](https://magefan.com/magento-2-xml-sitemap-extension)
